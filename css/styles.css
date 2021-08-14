@@ -1,0 +1,47 @@
+/** header **/
+#navbar-header{
+padding-left: 5px;
+}
+
+h1 {
+	color:#7209b7;
+	font-size:25px;
+	
+}
+h2 {
+	text-align: center;
+}
+
+h3{ 
+text-align: center;
+ }
+
+p {
+	margin:10px 20px 20px 20px;
+}
+.menu-cell {
+	float:left;
+	background-color: grey;
+	margin: 10px 15px 10px 15px;
+	width:100%;
+}
+.colapsable-nav{
+	background-color: #0000;
+	width:100%;
+}
+ul li {
+	border-width: solid black 0px 0px 0px 2px 0px;
+	text-align: center;
+
+}
+.navbar-brand{
+	padding-top: 0px
+	padding-left:0px;
+}
+.navbar-toggle{
+	clear: top;
+	margin-top: 12px;
+} 
+.container-float{
+	margin-left: 25px;
+}
